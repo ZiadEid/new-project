@@ -1,6 +1,9 @@
+import Router from "./router";
 
 export default function App() {
   return (
-    <div>App</div>
+    <div>
+      <Router />
+    </div>
   )
 }
