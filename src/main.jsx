@@ -7,5 +7,6 @@ createRoot(document.getElementById('root')).render(
 )
 
 
-// npm i react-router tailwindcss @tailwindcss/vite -D daisyui@latest
+// npm i react-router tailwindcss @tailwindcss/vite -D daisyui@latest 
+// react-hot-toast
 
